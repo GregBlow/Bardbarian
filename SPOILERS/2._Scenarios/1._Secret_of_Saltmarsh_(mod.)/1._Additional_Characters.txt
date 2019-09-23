@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-23T16:36:14+01:00
+
+====== 1. Additional Characters ======
+Created Monday 23 September 2019
+
+**The Proper Party**
+
+The Proper Party is comprised of Maximus, Therese, Rabin, and Arkania. They also travel to the abandoned mansion, but for motivation different to the player party. E.g. to cleanse if the party is larcenous, larcenous if the party is looking for a good time.
+
+The Proper Party is built to be stereotypical, and their level of knowledge should be fairly naive and easy to bamboozle or misdirect, and act as a tool against the smugglers/skeletons if the party is inclined to use them as such, else (ostensibly) easy to send away.
+
+If sent away the Proper Party will repeatedly return, having forgotten to do something on a previous occasion, else afflicted by a crisis of conscience. If provoked with insults or violence, the proper party should attack the player party.
+
+If sent away with a particularly risible ruse, the proper party should return looking for a fight. As there is no rogue in the Proper party, they make no attempt at stealth. They should use unimaginative tactics and surrender at low health. 

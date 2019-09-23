@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-09-20T16:04:36+01:00
 
-====== 1. Opening Scenario ======
+====== 2. Expedition ======
 Created Friday 20 September 2019
 
 The band, such as it is, has been hired to play entertainment on a meandering passenger ship. Amongst the other passengers is the sorceror Eefsher, and an artificer by the name of Willett, who have paid the captain and owner of the ship a fee to anchor for a period of time off of an island in the Selachian ocean. 
