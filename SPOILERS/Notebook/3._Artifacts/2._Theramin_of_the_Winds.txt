@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-01-23T09:12:57+00:00
+
+====== 2. Theramin of the Winds ======
+Created Thursday 23 January 2020
+
+Theramin (musical instrument) that can cause one of the following pairs of effects:
+
+1. Spread a sense of nihilism/still the air
+2. Spread a sense of optimistic wonder and energy/gusts of wind
+3. Spread a sense of panic and discord/gale force winds
+4. Spread a sense of calm and serenity/steady and gentle winds
+
+Can also be set on the ground to function as an alarm spell

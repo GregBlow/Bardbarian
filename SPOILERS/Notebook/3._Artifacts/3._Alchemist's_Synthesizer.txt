@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-01-23T09:13:16+00:00
+
+====== 3. Alchemist's Synthesizer ======
+Created Thursday 23 January 2020
+
+Synthesizer, makes stuff out of other stuff. Also earth themed.

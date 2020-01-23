@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-01-22T15:03:18+00:00
+
+====== 1. Guizem's Lily ======
+Created Wednesday 22 January 2020
+
+Value: 5000gp
+
+A flowering plant that grows in patches in the valleys of a particular mountain range, resembling common wildflowers to all but an expert inspection. 
+
+For one day, after growing for ten years, the fields of these plants bloom. During the night the petals are shed. The whole flower can be consumed as a component in a ritual to view that space at any other time, dependent upon the parameters of the ritual. 
